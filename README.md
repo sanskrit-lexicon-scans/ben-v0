@@ -1,4 +1,8 @@
-## sanskrit-lexicon-scans/ben
+## sanskrit-lexicon-scans/ben-v0
+
+This repository, originally named ben, was renamed in order to use a new source of images.
+
+The replacement repository is sanskrit-lexicon-scans/ben (10-01-2021)
 
 This repository contains images for the dictionary *Benfey Sanskrit-English Dictionary*.
 
